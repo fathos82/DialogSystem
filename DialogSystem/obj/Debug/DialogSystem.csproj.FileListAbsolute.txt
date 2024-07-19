@@ -1,0 +1,7 @@
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\bin\Debug\DialogSystem.exe
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\bin\Debug\DialogSystem.pdb
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\obj\Debug\DialogSystem.csproj.AssemblyReference.cache
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\obj\Debug\DialogSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\obj\Debug\DialogSystem.csproj.CoreCompileInputs.cache
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\obj\Debug\DialogSystem.exe
+C:\Users\Athos\RiderProjects\DialogSystem\DialogSystem\obj\Debug\DialogSystem.pdb
